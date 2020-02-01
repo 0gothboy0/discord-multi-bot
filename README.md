@@ -31,7 +31,7 @@ Feel free to check [issues page](https://github.com/0gothboy0/discord-bot/issues
 👤 **Kiryssha**
 
 - Site: [gothboy](http://gothboy.me)
-- Github: [@0gothboy0](https://github.com/0gothboy0)
+- Github: [@0gothboy0](https://github.com/xcaq)
 
 ## Show your support
 
@@ -39,7 +39,7 @@ Please ⭐️ this repository if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [Kiryssha](https://github.com/0gothboy0).<br />
+Copyright © 2019 [Kiryssha](https://github.com/xcaq).<br />
 This project is [MIT](https://github.com/0gothboy0/discord-bot/blob/master/LICENSE) licensed.
 
 ---
